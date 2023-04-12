@@ -1,4 +1,10 @@
 #include <iostream>
 using namespace std;
 
-cla
+class mahasiswa {
+
+private:
+	int nim;
+	string nama;
+
+};
