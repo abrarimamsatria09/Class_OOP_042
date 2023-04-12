@@ -45,3 +45,10 @@ void matakuliah::tampilmk() {
 	cout << "Nama MataKuliah : " << namamk << endl;
 	cout << "jumlah SKS : " << sks << endl;
 }
+
+int main()
+{
+	mahasiswa mhs;
+	matakuliah mk;
+
+}
