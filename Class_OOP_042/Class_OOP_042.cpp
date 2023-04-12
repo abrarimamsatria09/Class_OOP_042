@@ -10,7 +10,7 @@ public :
 	void inputdata() {
 		cout << "masukkan NIM : ";
 		cin >> nim;
-		cout << "masukkan Nama ; ";
+		cout << "masukkan Nama : ";
 		cin >> nama;
 	}
 	void tampildata() {
